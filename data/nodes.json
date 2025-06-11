@@ -1,0 +1,1337 @@
+[
+    {
+      "id": 0,
+      "name": "José Manuel Aguilar Alfaro",
+      "type": "person",
+      "email": "jaguilar@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-manuel-aguilar-alfaro",
+      "image": "https://cris.utec.edu.pe/files-asset/25754110/aguilar-alfaro-jose-manuel.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 1,
+      "name": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+      "type": "organization"
+    },
+    {
+      "id": 2,
+      "name": "Departamento de Negocios Digitales",
+      "type": "organization"
+    },
+    {
+      "id": 3,
+      "name": "Grace Alexandrino Ocaña",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/grace-alexandrino-oca%C3%B1a",
+      "image": "https://cris.utec.edu.pe/files-asset/24799661/alexandrino-ocana-grace.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 4,
+      "name": "Departamento de Humanidades, Artes y Ciencias Sociales",
+      "type": "organization"
+    },
+    {
+      "id": 5,
+      "name": "Helard Alvarez Sanchez",
+      "type": "person",
+      "email": "halvarez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/helard-alvarez-sanchez",
+      "image": "https://cris.utec.edu.pe/files-asset/18891305/alvarez_sanchez_helard.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 6,
+      "name": "Departamento de Ingeniería Mecánica y de la Energía",
+      "type": "organization"
+    },
+    {
+      "id": 7,
+      "name": "Grupo de investigación en energía y minas",
+      "type": "organization"
+    },
+    {
+      "id": 8,
+      "name": "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
+      "type": "organization"
+    },
+    {
+      "id": 9,
+      "name": "Claudia Antonini Bova",
+      "type": "person",
+      "email": "cantonini@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/claudia-antonini-bova",
+      "image": "https://cris.utec.edu.pe/files-asset/18891487/antonini_bova_claudia.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 10,
+      "name": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+      "type": "organization"
+    },
+    {
+      "id": 11,
+      "name": "Sergio Aranda Egusquiza",
+      "type": "person",
+      "email": "saranda@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/sergio-aranda-egusquiza",
+      "image": "https://cris.utec.edu.pe/files-asset/19172342/aranda_egusquiza_sergio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 12,
+      "name": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "type": "organization"
+    },
+    {
+      "id": 13,
+      "name": "Patricia Araujo Pantoja",
+      "type": "person",
+      "email": "paraujo@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/patricia-araujo-pantoja",
+      "image": "https://cris.utec.edu.pe/files-asset/25783439/araujo-pantoja-patricia.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 14,
+      "name": "Andrés Julián Arias Moreno",
+      "type": "person",
+      "email": "aariasm@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/andr%C3%A9s-juli%C3%A1n-arias-moreno",
+      "image": "https://cris.utec.edu.pe/files-asset/19169634/arias_moreno_andres.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 15,
+      "name": "Departamento de Bioingeniería e Ingeniería Química",
+      "type": "organization"
+    },
+    {
+      "id": 16,
+      "name": "Centro de Investigación en Bioingeniería",
+      "type": "organization"
+    },
+    {
+      "id": 17,
+      "name": "Luis Bedriñana Mera",
+      "type": "person",
+      "email": "lbedrinana@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/luis-bedri%C3%B1ana-mera",
+      "image": "https://cris.utec.edu.pe/files-asset/18892117/bedrinana_mera_luis.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 18,
+      "name": "Departamento de Ingeniería Civil y Ambiental",
+      "type": "organization"
+    },
+    {
+      "id": 19,
+      "name": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
+      "type": "organization"
+    },
+    {
+      "id": 20,
+      "name": "Centro de Investigación del Cemento y Concreto",
+      "type": "organization"
+    },
+    {
+      "id": 21,
+      "name": "Centro de Investigación y Conservación del Patrimonio",
+      "type": "organization"
+    },
+    {
+      "id": 22,
+      "name": "Omar Bejarano Grández",
+      "type": "person",
+      "email": "obejarano@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/omar-bejarano-gr%C3%A1ndez",
+      "image": "https://cris.utec.edu.pe/files-asset/21902885/bejarano_grandez_omar.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 23,
+      "name": "Jesús Edwin Bellido Angulo",
+      "type": "person",
+      "email": "jbellido@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jes%C3%BAs-edwin-bellido-angulo",
+      "image": "https://cris.utec.edu.pe/files-asset/18891996/bellido_angulo_jesus.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 24,
+      "name": "Departamento de Ciencia de la Computación",
+      "type": "organization"
+    },
+    {
+      "id": 25,
+      "name": "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+      "type": "organization"
+    },
+    {
+      "id": 26,
+      "name": "Centro de Investigación en Sostenibilidad Computacional",
+      "type": "organization"
+    },
+    {
+      "id": 27,
+      "name": "Carlos Alberto Benedetty Torres",
+      "type": "person",
+      "email": "cbenedetty@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/carlos-alberto-benedetty-torres",
+      "image": "https://cris.utec.edu.pe/files-asset/24489212/benedetty-carlos.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 28,
+      "name": "Juan Bueno Villanueva",
+      "type": "person",
+      "email": "jbueno@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/juan-bueno-villanueva",
+      "image": "https://cris.utec.edu.pe/files-asset/19489355/bueno_villanueva_juan.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 29,
+      "name": "Jhedmar Jhonatan Callupe Luna",
+      "type": "person",
+      "email": "jcallupe@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jhedmar-jhonatan-callupe-luna",
+      "image": "https://cris.utec.edu.pe/files-asset/25685604/callupe-luna-jhedmar-jhonatan.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 30,
+      "name": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+      "type": "organization"
+    },
+    {
+      "id": 31,
+      "name": "Ruth Canahuire Cabello",
+      "type": "person",
+      "email": "rcanahuire@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/ruth-canahuire-cabello",
+      "image": "https://cris.utec.edu.pe/files-asset/19169709/canahuire_cabello_ruth.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 32,
+      "name": "Paul Cardenas Lizana",
+      "type": "person",
+      "email": "pcardenas@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/paul-cardenas-lizana",
+      "image": "https://cris.utec.edu.pe/files-asset/19169784/cardenas_lizana_paul.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 33,
+      "name": "Samuel Charca Mamani",
+      "type": "person",
+      "email": "scharca@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/samuel-charca-mamani",
+      "image": "https://cris.utec.edu.pe/files-asset/19169804/charca_mamani_samuel.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 34,
+      "name": "Xyoby Chavez Pacheco",
+      "type": "person",
+      "email": "xchavez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/xyoby-chavez-pacheco",
+      "image": "https://cris.utec.edu.pe/files-asset/19169822/chavez_pacheco_xyoby.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 35,
+      "name": "Departamento de Ciencias",
+      "type": "organization"
+    },
+    {
+      "id": 36,
+      "name": "Fabien Cornillier",
+      "type": "person",
+      "email": "fcornillier@utec.edu.pe; fypcornillier@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/fabien-cornillier",
+      "image": "https://cris.utec.edu.pe/files-asset/19169853/corniller_fabien.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 37,
+      "name": "Antuané De La Flor Basterrechea",
+      "type": "person",
+      "email": "adelaflor@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/antuan%C3%A9-de-la-flor-basterrechea",
+      "image": "https://cris.utec.edu.pe/files-asset/19170012/delaflor_basterrechea_antuane.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 38,
+      "name": "Centro de Impacto y Responsabilidad Social",
+      "type": "organization"
+    },
+    {
+      "id": 39,
+      "name": "Jose De La Puente Maldonado",
+      "type": "person",
+      "email": "jdelapuente@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-de-la-puente-maldonado",
+      "image": "https://cris.utec.edu.pe/files-asset/19170040/delapuente_maldonado_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 40,
+      "name": "José Andrés De Leo Martínez",
+      "type": "person",
+      "email": "adeleo@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-andr%C3%A9s-de-leo-mart%C3%ADnez",
+      "image": "https://cris.utec.edu.pe/files-asset/19170063/deleo_martinez_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 41,
+      "name": "Jose Gerardo Deustua Rossel",
+      "type": "person",
+      "email": "jdeustua@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-gerardo-deustua-rossel",
+      "image": "https://cris.utec.edu.pe/files-asset/21821347/deustua_rossel_jose_gerardo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 42,
+      "name": "UTEC Ventures",
+      "type": "organization"
+    },
+    {
+      "id": 43,
+      "name": "Manuel Arturo Deza Figueroa",
+      "type": "person",
+      "email": "mdeza@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/manuel-arturo-deza-figueroa",
+      "image": "https://cris.utec.edu.pe/files-asset/24106839/deza-figueroa-arturo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 44,
+      "name": "Alberto Donayre Torres",
+      "type": "person",
+      "email": "adonayre@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/alberto-donayre-torres",
+      "image": "https://cris.utec.edu.pe/files-asset/19170083/donayre_torres_alberto.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 45,
+      "name": "Jose Fiestas Iquira",
+      "type": "person",
+      "email": "jfiestas@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-fiestas-iquira",
+      "image": "https://cris.utec.edu.pe/files-asset/19170115/fiestas_iquira_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 46,
+      "name": "Elena Flores Barreda",
+      "type": "person",
+      "email": "cfloresb@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/elena-flores-barreda",
+      "image": "https://cris.utec.edu.pe/files-asset/19170139/flores_barreda_carmen_elena.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 47,
+      "name": "Luis Ernesto Flores Luyo",
+      "type": "person",
+      "email": "lfloresl@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/luis-ernesto-flores-luyo",
+      "image": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png"
+    },
+    {
+      "id": 48,
+      "name": "Christian Flores Vega",
+      "type": "person",
+      "email": "cflores@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/christian-flores-vega",
+      "image": "https://cris.utec.edu.pe/files-asset/19170237/flores_vega_christian.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 49,
+      "name": "José Tomás Gálvez Ghersi",
+      "type": "person",
+      "email": "jgalvezg@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-tom%C3%A1s-g%C3%A1lvez-ghersi",
+      "image": "https://cris.utec.edu.pe/files-asset/19170257/galvez_ghersi_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 50,
+      "name": "Grupo de Investigación en Física Fundamental (GIFF)",
+      "type": "organization"
+    },
+    {
+      "id": 51,
+      "name": "Oscar Gamonal Pajares",
+      "type": "person",
+      "email": "ogamonal@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/oscar-gamonal-pajares",
+      "image": "https://cris.utec.edu.pe/files-asset/19170274/gamonal_pajares_oscar.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 52,
+      "name": "Germain García Zanabria",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/germain-garc%C3%ADa-zanabria",
+      "image": "https://cris.utec.edu.pe/files-asset/24148814/garcia-zanabria-germain_1_.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 53,
+      "name": "Departamento de Ciencia de Datos y Sistemas de Información",
+      "type": "organization"
+    },
+    {
+      "id": 54,
+      "name": "Jorge Gonzalez Reaño",
+      "type": "person",
+      "email": "jgonzalez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jorge-gonzalez-rea%C3%B1o",
+      "image": "https://cris.utec.edu.pe/files-asset/19170336/gonzales_reano_jorge.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 55,
+      "name": "Leo Guerrero",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/leo-guerrero",
+      "image": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png"
+    },
+    {
+      "id": 56,
+      "name": "Centro de Investigación y Tecnología del Agua",
+      "type": "organization"
+    },
+    {
+      "id": 57,
+      "name": "Juan Gabriel Gutierrez Alva",
+      "type": "person",
+      "email": "jgutierreza@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/juan-gabriel-gutierrez-alva",
+      "image": "https://cris.utec.edu.pe/files-asset/19170355/gutierrez_alva_juan.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 58,
+      "name": "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
+      "type": "organization"
+    },
+    {
+      "id": 59,
+      "name": "Julio Gutierrez Alva",
+      "type": "person",
+      "email": "jgutierreza@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/julio-gutierrez-alva",
+      "image": "https://cris.utec.edu.pe/files-asset/19170374/gutierrez_alva_julio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 60,
+      "name": "Yuri Herrera Burstein",
+      "type": "person",
+      "email": "yherrera@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/yuri-herrera-burstein",
+      "image": "https://cris.utec.edu.pe/files-asset/23816546/Dise_o_sin_t_tulo_46_.png?w=50&f=jpg"
+    },
+    {
+      "id": 61,
+      "name": "Oscar Hidalgo Wuest",
+      "type": "person",
+      "email": "ohidalgo@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/oscar-hidalgo-wuest",
+      "image": "https://cris.utec.edu.pe/files-asset/19170394/hidalgo_wuest_oscar.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 62,
+      "name": "Daniel Vicente Horna Muñoz",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/daniel-vicente-horna-mu%C3%B1oz",
+      "image": "https://cris.utec.edu.pe/files-asset/19170477/horna_munoz_daniel.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 63,
+      "name": "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim)",
+      "type": "organization"
+    },
+    {
+      "id": 64,
+      "name": "Rocío Hoyos Diaz",
+      "type": "person",
+      "email": "rhoyos@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/roc%C3%ADo-hoyos-diaz",
+      "image": "https://cris.utec.edu.pe/files-asset/20164343/hoyos_diaz_rocio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 65,
+      "name": "Deyby Huamanchahua Canchanya",
+      "type": "person",
+      "email": "dhuamanchahua@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/deyby-huamanchahua-canchanya",
+      "image": "https://cris.utec.edu.pe/files-asset/19170519/huamanchaua_canchanya_deyby.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 66,
+      "name": "Grupo de Investigación en Innovación Educativa y Competencia Docente (INECOD)",
+      "type": "organization"
+    },
+    {
+      "id": 67,
+      "name": "Dante Inga Narvaez",
+      "type": "person",
+      "email": "dinga@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/dante-inga-narvaez",
+      "image": "https://cris.utec.edu.pe/files-asset/19170535/inga_narvaez_dante.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 68,
+      "name": "Elvis Jara Alegria",
+      "type": "person",
+      "email": "ejara@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/elvis-jara-alegria",
+      "image": "https://cris.utec.edu.pe/files-asset/19170555/jara_alegria_elvis.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 69,
+      "name": "Enrique Juarez Aquino",
+      "type": "person",
+      "email": "ejuarez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/enrique-juarez-aquino",
+      "image": "https://cris.utec.edu.pe/files-asset/21819856/juarez_aquino_enrique.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 70,
+      "name": "Wangdo Kim",
+      "type": "person",
+      "email": "mwdkim@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/wando-kim",
+      "image": "https://cris.utec.edu.pe/files-asset/19170595/kim_wangdo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 71,
+      "name": "Jose Larco Martinelli",
+      "type": "person",
+      "email": "jlarco@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-larco-martinelli",
+      "image": "https://cris.utec.edu.pe/files-asset/19170830/larco_martinelli_jose_antonio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 72,
+      "name": "Cristian Lopez Del Alamo",
+      "type": "person",
+      "email": "clopezd@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/cristian-lopez-del-alamo",
+      "image": "https://cris.utec.edu.pe/files-asset/19170865/lopez_delalamo_cristian.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 73,
+      "name": "Milagros Lunga Calderón",
+      "type": "person",
+      "email": "mlunga@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/milagros-lunga-calder%C3%B3n",
+      "image": "https://cris.utec.edu.pe/files-asset/21820262/lunga_calderon_milagros_cecilia.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 74,
+      "name": "José Luis Mantari Laureano",
+      "type": "person",
+      "email": "jmantari@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-luis-mantari-laureano",
+      "image": "https://cris.utec.edu.pe/files-asset/21820910/mantari_laureano_jose_luis.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 75,
+      "name": "Giancarlo Marcone Flores",
+      "type": "person",
+      "email": "gmarcone@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/giancarlo-marcone-flores",
+      "image": "https://cris.utec.edu.pe/files-asset/24694625/marcone-flores-giancarlo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 76,
+      "name": "Diego Alejandro Milanés Carreño",
+      "type": "person",
+      "email": "dmilanes@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/diego-alejandro-milan%C3%A9s-carre%C3%B1o",
+      "image": "https://cris.utec.edu.pe/files-asset/25685589/milanes-carrenio-diego-alejandro.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 77,
+      "name": "José Manuel Aguilar Alfaro",
+      "type": "person",
+      "email": "jaguilar@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-manuel-aguilar-alfaro",
+      "image": "https://cris.utec.edu.pe/files-asset/25754110/aguilar-alfaro-jose-manuel.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 78,
+      "name": "Grace Alexandrino Ocaña",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/grace-alexandrino-oca%C3%B1a",
+      "image": "https://cris.utec.edu.pe/files-asset/24799661/alexandrino-ocana-grace.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 79,
+      "name": "Helard Alvarez Sanchez",
+      "type": "person",
+      "email": "halvarez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/helard-alvarez-sanchez",
+      "image": "https://cris.utec.edu.pe/files-asset/18891305/alvarez_sanchez_helard.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 80,
+      "name": "Claudia Antonini Bova",
+      "type": "person",
+      "email": "cantonini@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/claudia-antonini-bova",
+      "image": "https://cris.utec.edu.pe/files-asset/18891487/antonini_bova_claudia.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 81,
+      "name": "Sergio Aranda Egusquiza",
+      "type": "person",
+      "email": "saranda@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/sergio-aranda-egusquiza",
+      "image": "https://cris.utec.edu.pe/files-asset/19172342/aranda_egusquiza_sergio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 82,
+      "name": "Patricia Araujo Pantoja",
+      "type": "person",
+      "email": "paraujo@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/patricia-araujo-pantoja",
+      "image": "https://cris.utec.edu.pe/files-asset/25783439/araujo-pantoja-patricia.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 83,
+      "name": "Andrés Julián Arias Moreno",
+      "type": "person",
+      "email": "aariasm@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/andr%C3%A9s-juli%C3%A1n-arias-moreno",
+      "image": "https://cris.utec.edu.pe/files-asset/19169634/arias_moreno_andres.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 84,
+      "name": "Luis Bedriñana Mera",
+      "type": "person",
+      "email": "lbedrinana@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/luis-bedri%C3%B1ana-mera",
+      "image": "https://cris.utec.edu.pe/files-asset/18892117/bedrinana_mera_luis.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 85,
+      "name": "Omar Bejarano Grández",
+      "type": "person",
+      "email": "obejarano@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/omar-bejarano-gr%C3%A1ndez",
+      "image": "https://cris.utec.edu.pe/files-asset/21902885/bejarano_grandez_omar.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 86,
+      "name": "Jesús Edwin Bellido Angulo",
+      "type": "person",
+      "email": "jbellido@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jes%C3%BAs-edwin-bellido-angulo",
+      "image": "https://cris.utec.edu.pe/files-asset/18891996/bellido_angulo_jesus.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 87,
+      "name": "Carlos Alberto Benedetty Torres",
+      "type": "person",
+      "email": "cbenedetty@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/carlos-alberto-benedetty-torres",
+      "image": "https://cris.utec.edu.pe/files-asset/24489212/benedetty-carlos.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 88,
+      "name": "Juan Bueno Villanueva",
+      "type": "person",
+      "email": "jbueno@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/juan-bueno-villanueva",
+      "image": "https://cris.utec.edu.pe/files-asset/19489355/bueno_villanueva_juan.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 89,
+      "name": "Jhedmar Jhonatan Callupe Luna",
+      "type": "person",
+      "email": "jcallupe@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jhedmar-jhonatan-callupe-luna",
+      "image": "https://cris.utec.edu.pe/files-asset/25685604/callupe-luna-jhedmar-jhonatan.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 90,
+      "name": "Ruth Canahuire Cabello",
+      "type": "person",
+      "email": "rcanahuire@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/ruth-canahuire-cabello",
+      "image": "https://cris.utec.edu.pe/files-asset/19169709/canahuire_cabello_ruth.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 91,
+      "name": "Paul Cardenas Lizana",
+      "type": "person",
+      "email": "pcardenas@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/paul-cardenas-lizana",
+      "image": "https://cris.utec.edu.pe/files-asset/19169784/cardenas_lizana_paul.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 92,
+      "name": "Samuel Charca Mamani",
+      "type": "person",
+      "email": "scharca@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/samuel-charca-mamani",
+      "image": "https://cris.utec.edu.pe/files-asset/19169804/charca_mamani_samuel.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 93,
+      "name": "Xyoby Chavez Pacheco",
+      "type": "person",
+      "email": "xchavez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/xyoby-chavez-pacheco",
+      "image": "https://cris.utec.edu.pe/files-asset/19169822/chavez_pacheco_xyoby.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 94,
+      "name": "Fabien Cornillier",
+      "type": "person",
+      "email": "fcornillier@utec.edu.pe; fypcornillier@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/fabien-cornillier",
+      "image": "https://cris.utec.edu.pe/files-asset/19169853/corniller_fabien.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 95,
+      "name": "Antuané De La Flor Basterrechea",
+      "type": "person",
+      "email": "adelaflor@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/antuan%C3%A9-de-la-flor-basterrechea",
+      "image": "https://cris.utec.edu.pe/files-asset/19170012/delaflor_basterrechea_antuane.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 96,
+      "name": "Jose De La Puente Maldonado",
+      "type": "person",
+      "email": "jdelapuente@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-de-la-puente-maldonado",
+      "image": "https://cris.utec.edu.pe/files-asset/19170040/delapuente_maldonado_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 97,
+      "name": "José Andrés De Leo Martínez",
+      "type": "person",
+      "email": "adeleo@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-andr%C3%A9s-de-leo-mart%C3%ADnez",
+      "image": "https://cris.utec.edu.pe/files-asset/19170063/deleo_martinez_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 98,
+      "name": "Jose Gerardo Deustua Rossel",
+      "type": "person",
+      "email": "jdeustua@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-gerardo-deustua-rossel",
+      "image": "https://cris.utec.edu.pe/files-asset/21821347/deustua_rossel_jose_gerardo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 99,
+      "name": "Manuel Arturo Deza Figueroa",
+      "type": "person",
+      "email": "mdeza@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/manuel-arturo-deza-figueroa",
+      "image": "https://cris.utec.edu.pe/files-asset/24106839/deza-figueroa-arturo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 100,
+      "name": "Alberto Donayre Torres",
+      "type": "person",
+      "email": "adonayre@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/alberto-donayre-torres",
+      "image": "https://cris.utec.edu.pe/files-asset/19170083/donayre_torres_alberto.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 101,
+      "name": "Jose Fiestas Iquira",
+      "type": "person",
+      "email": "jfiestas@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-fiestas-iquira",
+      "image": "https://cris.utec.edu.pe/files-asset/19170115/fiestas_iquira_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 102,
+      "name": "Elena Flores Barreda",
+      "type": "person",
+      "email": "cfloresb@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/elena-flores-barreda",
+      "image": "https://cris.utec.edu.pe/files-asset/19170139/flores_barreda_carmen_elena.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 103,
+      "name": "Luis Ernesto Flores Luyo",
+      "type": "person",
+      "email": "lfloresl@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/luis-ernesto-flores-luyo",
+      "image": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png"
+    },
+    {
+      "id": 104,
+      "name": "Christian Flores Vega",
+      "type": "person",
+      "email": "cflores@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/christian-flores-vega",
+      "image": "https://cris.utec.edu.pe/files-asset/19170237/flores_vega_christian.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 105,
+      "name": "José Tomás Gálvez Ghersi",
+      "type": "person",
+      "email": "jgalvezg@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-tom%C3%A1s-g%C3%A1lvez-ghersi",
+      "image": "https://cris.utec.edu.pe/files-asset/19170257/galvez_ghersi_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 106,
+      "name": "Oscar Gamonal Pajares",
+      "type": "person",
+      "email": "ogamonal@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/oscar-gamonal-pajares",
+      "image": "https://cris.utec.edu.pe/files-asset/19170274/gamonal_pajares_oscar.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 107,
+      "name": "Germain García Zanabria",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/germain-garc%C3%ADa-zanabria",
+      "image": "https://cris.utec.edu.pe/files-asset/24148814/garcia-zanabria-germain_1_.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 108,
+      "name": "Jorge Gonzalez Reaño",
+      "type": "person",
+      "email": "jgonzalez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jorge-gonzalez-rea%C3%B1o",
+      "image": "https://cris.utec.edu.pe/files-asset/19170336/gonzales_reano_jorge.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 109,
+      "name": "Leo Guerrero",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/leo-guerrero",
+      "image": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png"
+    },
+    {
+      "id": 110,
+      "name": "Juan Gabriel Gutierrez Alva",
+      "type": "person",
+      "email": "jgutierreza@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/juan-gabriel-gutierrez-alva",
+      "image": "https://cris.utec.edu.pe/files-asset/19170355/gutierrez_alva_juan.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 111,
+      "name": "Julio Gutierrez Alva",
+      "type": "person",
+      "email": "jgutierreza@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/julio-gutierrez-alva",
+      "image": "https://cris.utec.edu.pe/files-asset/19170374/gutierrez_alva_julio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 112,
+      "name": "Yuri Herrera Burstein",
+      "type": "person",
+      "email": "yherrera@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/yuri-herrera-burstein",
+      "image": "https://cris.utec.edu.pe/files-asset/23816546/Dise_o_sin_t_tulo_46_.png?w=50&f=jpg"
+    },
+    {
+      "id": 113,
+      "name": "Oscar Hidalgo Wuest",
+      "type": "person",
+      "email": "ohidalgo@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/oscar-hidalgo-wuest",
+      "image": "https://cris.utec.edu.pe/files-asset/19170394/hidalgo_wuest_oscar.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 114,
+      "name": "Daniel Vicente Horna Muñoz",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/daniel-vicente-horna-mu%C3%B1oz",
+      "image": "https://cris.utec.edu.pe/files-asset/19170477/horna_munoz_daniel.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 115,
+      "name": "Rocío Hoyos Diaz",
+      "type": "person",
+      "email": "rhoyos@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/roc%C3%ADo-hoyos-diaz",
+      "image": "https://cris.utec.edu.pe/files-asset/20164343/hoyos_diaz_rocio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 116,
+      "name": "Deyby Huamanchahua Canchanya",
+      "type": "person",
+      "email": "dhuamanchahua@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/deyby-huamanchahua-canchanya",
+      "image": "https://cris.utec.edu.pe/files-asset/19170519/huamanchaua_canchanya_deyby.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 117,
+      "name": "Dante Inga Narvaez",
+      "type": "person",
+      "email": "dinga@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/dante-inga-narvaez",
+      "image": "https://cris.utec.edu.pe/files-asset/19170535/inga_narvaez_dante.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 118,
+      "name": "Elvis Jara Alegria",
+      "type": "person",
+      "email": "ejara@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/elvis-jara-alegria",
+      "image": "https://cris.utec.edu.pe/files-asset/19170555/jara_alegria_elvis.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 119,
+      "name": "Enrique Juarez Aquino",
+      "type": "person",
+      "email": "ejuarez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/enrique-juarez-aquino",
+      "image": "https://cris.utec.edu.pe/files-asset/21819856/juarez_aquino_enrique.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 120,
+      "name": "Wangdo Kim",
+      "type": "person",
+      "email": "mwdkim@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/wando-kim",
+      "image": "https://cris.utec.edu.pe/files-asset/19170595/kim_wangdo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 121,
+      "name": "Jose Larco Martinelli",
+      "type": "person",
+      "email": "jlarco@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-larco-martinelli",
+      "image": "https://cris.utec.edu.pe/files-asset/19170830/larco_martinelli_jose_antonio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 122,
+      "name": "Cristian Lopez Del Alamo",
+      "type": "person",
+      "email": "clopezd@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/cristian-lopez-del-alamo",
+      "image": "https://cris.utec.edu.pe/files-asset/19170865/lopez_delalamo_cristian.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 123,
+      "name": "Milagros Lunga Calderón",
+      "type": "person",
+      "email": "mlunga@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/milagros-lunga-calder%C3%B3n",
+      "image": "https://cris.utec.edu.pe/files-asset/21820262/lunga_calderon_milagros_cecilia.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 124,
+      "name": "José Luis Mantari Laureano",
+      "type": "person",
+      "email": "jmantari@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-luis-mantari-laureano",
+      "image": "https://cris.utec.edu.pe/files-asset/21820910/mantari_laureano_jose_luis.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 125,
+      "name": "Giancarlo Marcone Flores",
+      "type": "person",
+      "email": "gmarcone@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/giancarlo-marcone-flores",
+      "image": "https://cris.utec.edu.pe/files-asset/24694625/marcone-flores-giancarlo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 126,
+      "name": "Diego Alejandro Milanés Carreño",
+      "type": "person",
+      "email": "dmilanes@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/diego-alejandro-milan%C3%A9s-carre%C3%B1o",
+      "image": "https://cris.utec.edu.pe/files-asset/25685589/milanes-carrenio-diego-alejandro.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 127,
+      "name": "José Manuel Aguilar Alfaro",
+      "type": "person",
+      "email": "jaguilar@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-manuel-aguilar-alfaro",
+      "image": "https://cris.utec.edu.pe/files-asset/25754110/aguilar-alfaro-jose-manuel.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 128,
+      "name": "Grace Alexandrino Ocaña",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/grace-alexandrino-oca%C3%B1a",
+      "image": "https://cris.utec.edu.pe/files-asset/24799661/alexandrino-ocana-grace.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 129,
+      "name": "Helard Alvarez Sanchez",
+      "type": "person",
+      "email": "halvarez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/helard-alvarez-sanchez",
+      "image": "https://cris.utec.edu.pe/files-asset/18891305/alvarez_sanchez_helard.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 130,
+      "name": "Claudia Antonini Bova",
+      "type": "person",
+      "email": "cantonini@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/claudia-antonini-bova",
+      "image": "https://cris.utec.edu.pe/files-asset/18891487/antonini_bova_claudia.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 131,
+      "name": "Sergio Aranda Egusquiza",
+      "type": "person",
+      "email": "saranda@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/sergio-aranda-egusquiza",
+      "image": "https://cris.utec.edu.pe/files-asset/19172342/aranda_egusquiza_sergio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 132,
+      "name": "Patricia Araujo Pantoja",
+      "type": "person",
+      "email": "paraujo@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/patricia-araujo-pantoja",
+      "image": "https://cris.utec.edu.pe/files-asset/25783439/araujo-pantoja-patricia.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 133,
+      "name": "Andrés Julián Arias Moreno",
+      "type": "person",
+      "email": "aariasm@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/andr%C3%A9s-juli%C3%A1n-arias-moreno",
+      "image": "https://cris.utec.edu.pe/files-asset/19169634/arias_moreno_andres.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 134,
+      "name": "Luis Bedriñana Mera",
+      "type": "person",
+      "email": "lbedrinana@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/luis-bedri%C3%B1ana-mera",
+      "image": "https://cris.utec.edu.pe/files-asset/18892117/bedrinana_mera_luis.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 135,
+      "name": "Omar Bejarano Grández",
+      "type": "person",
+      "email": "obejarano@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/omar-bejarano-gr%C3%A1ndez",
+      "image": "https://cris.utec.edu.pe/files-asset/21902885/bejarano_grandez_omar.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 136,
+      "name": "Jesús Edwin Bellido Angulo",
+      "type": "person",
+      "email": "jbellido@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jes%C3%BAs-edwin-bellido-angulo",
+      "image": "https://cris.utec.edu.pe/files-asset/18891996/bellido_angulo_jesus.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 137,
+      "name": "Carlos Alberto Benedetty Torres",
+      "type": "person",
+      "email": "cbenedetty@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/carlos-alberto-benedetty-torres",
+      "image": "https://cris.utec.edu.pe/files-asset/24489212/benedetty-carlos.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 138,
+      "name": "Juan Bueno Villanueva",
+      "type": "person",
+      "email": "jbueno@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/juan-bueno-villanueva",
+      "image": "https://cris.utec.edu.pe/files-asset/19489355/bueno_villanueva_juan.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 139,
+      "name": "Jhedmar Jhonatan Callupe Luna",
+      "type": "person",
+      "email": "jcallupe@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jhedmar-jhonatan-callupe-luna",
+      "image": "https://cris.utec.edu.pe/files-asset/25685604/callupe-luna-jhedmar-jhonatan.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 140,
+      "name": "Ruth Canahuire Cabello",
+      "type": "person",
+      "email": "rcanahuire@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/ruth-canahuire-cabello",
+      "image": "https://cris.utec.edu.pe/files-asset/19169709/canahuire_cabello_ruth.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 141,
+      "name": "Paul Cardenas Lizana",
+      "type": "person",
+      "email": "pcardenas@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/paul-cardenas-lizana",
+      "image": "https://cris.utec.edu.pe/files-asset/19169784/cardenas_lizana_paul.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 142,
+      "name": "Samuel Charca Mamani",
+      "type": "person",
+      "email": "scharca@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/samuel-charca-mamani",
+      "image": "https://cris.utec.edu.pe/files-asset/19169804/charca_mamani_samuel.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 143,
+      "name": "Xyoby Chavez Pacheco",
+      "type": "person",
+      "email": "xchavez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/xyoby-chavez-pacheco",
+      "image": "https://cris.utec.edu.pe/files-asset/19169822/chavez_pacheco_xyoby.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 144,
+      "name": "Fabien Cornillier",
+      "type": "person",
+      "email": "fcornillier@utec.edu.pe; fypcornillier@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/fabien-cornillier",
+      "image": "https://cris.utec.edu.pe/files-asset/19169853/corniller_fabien.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 145,
+      "name": "Antuané De La Flor Basterrechea",
+      "type": "person",
+      "email": "adelaflor@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/antuan%C3%A9-de-la-flor-basterrechea",
+      "image": "https://cris.utec.edu.pe/files-asset/19170012/delaflor_basterrechea_antuane.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 146,
+      "name": "Jose De La Puente Maldonado",
+      "type": "person",
+      "email": "jdelapuente@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-de-la-puente-maldonado",
+      "image": "https://cris.utec.edu.pe/files-asset/19170040/delapuente_maldonado_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 147,
+      "name": "José Andrés De Leo Martínez",
+      "type": "person",
+      "email": "adeleo@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-andr%C3%A9s-de-leo-mart%C3%ADnez",
+      "image": "https://cris.utec.edu.pe/files-asset/19170063/deleo_martinez_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 148,
+      "name": "Jose Gerardo Deustua Rossel",
+      "type": "person",
+      "email": "jdeustua@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-gerardo-deustua-rossel",
+      "image": "https://cris.utec.edu.pe/files-asset/21821347/deustua_rossel_jose_gerardo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 149,
+      "name": "Manuel Arturo Deza Figueroa",
+      "type": "person",
+      "email": "mdeza@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/manuel-arturo-deza-figueroa",
+      "image": "https://cris.utec.edu.pe/files-asset/24106839/deza-figueroa-arturo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 150,
+      "name": "Alberto Donayre Torres",
+      "type": "person",
+      "email": "adonayre@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/alberto-donayre-torres",
+      "image": "https://cris.utec.edu.pe/files-asset/19170083/donayre_torres_alberto.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 151,
+      "name": "Jose Fiestas Iquira",
+      "type": "person",
+      "email": "jfiestas@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-fiestas-iquira",
+      "image": "https://cris.utec.edu.pe/files-asset/19170115/fiestas_iquira_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 152,
+      "name": "Elena Flores Barreda",
+      "type": "person",
+      "email": "cfloresb@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/elena-flores-barreda",
+      "image": "https://cris.utec.edu.pe/files-asset/19170139/flores_barreda_carmen_elena.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 153,
+      "name": "Luis Ernesto Flores Luyo",
+      "type": "person",
+      "email": "lfloresl@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/luis-ernesto-flores-luyo",
+      "image": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png"
+    },
+    {
+      "id": 154,
+      "name": "Christian Flores Vega",
+      "type": "person",
+      "email": "cflores@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/christian-flores-vega",
+      "image": "https://cris.utec.edu.pe/files-asset/19170237/flores_vega_christian.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 155,
+      "name": "José Tomás Gálvez Ghersi",
+      "type": "person",
+      "email": "jgalvezg@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-tom%C3%A1s-g%C3%A1lvez-ghersi",
+      "image": "https://cris.utec.edu.pe/files-asset/19170257/galvez_ghersi_jose.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 156,
+      "name": "Oscar Gamonal Pajares",
+      "type": "person",
+      "email": "ogamonal@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/oscar-gamonal-pajares",
+      "image": "https://cris.utec.edu.pe/files-asset/19170274/gamonal_pajares_oscar.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 157,
+      "name": "Germain García Zanabria",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/germain-garc%C3%ADa-zanabria",
+      "image": "https://cris.utec.edu.pe/files-asset/24148814/garcia-zanabria-germain_1_.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 158,
+      "name": "Jorge Gonzalez Reaño",
+      "type": "person",
+      "email": "jgonzalez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jorge-gonzalez-rea%C3%B1o",
+      "image": "https://cris.utec.edu.pe/files-asset/19170336/gonzales_reano_jorge.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 159,
+      "name": "Leo Guerrero",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/leo-guerrero",
+      "image": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png"
+    },
+    {
+      "id": 160,
+      "name": "Juan Gabriel Gutierrez Alva",
+      "type": "person",
+      "email": "jgutierreza@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/juan-gabriel-gutierrez-alva",
+      "image": "https://cris.utec.edu.pe/files-asset/19170355/gutierrez_alva_juan.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 161,
+      "name": "Julio Gutierrez Alva",
+      "type": "person",
+      "email": "jgutierreza@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/julio-gutierrez-alva",
+      "image": "https://cris.utec.edu.pe/files-asset/19170374/gutierrez_alva_julio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 162,
+      "name": "Yuri Herrera Burstein",
+      "type": "person",
+      "email": "yherrera@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/yuri-herrera-burstein",
+      "image": "https://cris.utec.edu.pe/files-asset/23816546/Dise_o_sin_t_tulo_46_.png?w=50&f=jpg"
+    },
+    {
+      "id": 163,
+      "name": "Oscar Hidalgo Wuest",
+      "type": "person",
+      "email": "ohidalgo@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/oscar-hidalgo-wuest",
+      "image": "https://cris.utec.edu.pe/files-asset/19170394/hidalgo_wuest_oscar.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 164,
+      "name": "Daniel Vicente Horna Muñoz",
+      "type": "person",
+      "email": "",
+      "url": "https://cris.utec.edu.pe/es/persons/daniel-vicente-horna-mu%C3%B1oz",
+      "image": "https://cris.utec.edu.pe/files-asset/19170477/horna_munoz_daniel.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 165,
+      "name": "Rocío Hoyos Diaz",
+      "type": "person",
+      "email": "rhoyos@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/roc%C3%ADo-hoyos-diaz",
+      "image": "https://cris.utec.edu.pe/files-asset/20164343/hoyos_diaz_rocio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 166,
+      "name": "Deyby Huamanchahua Canchanya",
+      "type": "person",
+      "email": "dhuamanchahua@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/deyby-huamanchahua-canchanya",
+      "image": "https://cris.utec.edu.pe/files-asset/19170519/huamanchaua_canchanya_deyby.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 167,
+      "name": "Dante Inga Narvaez",
+      "type": "person",
+      "email": "dinga@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/dante-inga-narvaez",
+      "image": "https://cris.utec.edu.pe/files-asset/19170535/inga_narvaez_dante.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 168,
+      "name": "Elvis Jara Alegria",
+      "type": "person",
+      "email": "ejara@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/elvis-jara-alegria",
+      "image": "https://cris.utec.edu.pe/files-asset/19170555/jara_alegria_elvis.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 169,
+      "name": "Enrique Juarez Aquino",
+      "type": "person",
+      "email": "ejuarez@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/enrique-juarez-aquino",
+      "image": "https://cris.utec.edu.pe/files-asset/21819856/juarez_aquino_enrique.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 170,
+      "name": "Wangdo Kim",
+      "type": "person",
+      "email": "mwdkim@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/wando-kim",
+      "image": "https://cris.utec.edu.pe/files-asset/19170595/kim_wangdo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 171,
+      "name": "Jose Larco Martinelli",
+      "type": "person",
+      "email": "jlarco@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jose-larco-martinelli",
+      "image": "https://cris.utec.edu.pe/files-asset/19170830/larco_martinelli_jose_antonio.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 172,
+      "name": "Cristian Lopez Del Alamo",
+      "type": "person",
+      "email": "clopezd@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/cristian-lopez-del-alamo",
+      "image": "https://cris.utec.edu.pe/files-asset/19170865/lopez_delalamo_cristian.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 173,
+      "name": "Milagros Lunga Calderón",
+      "type": "person",
+      "email": "mlunga@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/milagros-lunga-calder%C3%B3n",
+      "image": "https://cris.utec.edu.pe/files-asset/21820262/lunga_calderon_milagros_cecilia.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 174,
+      "name": "José Luis Mantari Laureano",
+      "type": "person",
+      "email": "jmantari@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-luis-mantari-laureano",
+      "image": "https://cris.utec.edu.pe/files-asset/21820910/mantari_laureano_jose_luis.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 175,
+      "name": "Giancarlo Marcone Flores",
+      "type": "person",
+      "email": "gmarcone@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/giancarlo-marcone-flores",
+      "image": "https://cris.utec.edu.pe/files-asset/24694625/marcone-flores-giancarlo.jpg?w=50&f=jpg"
+    },
+    {
+      "id": 176,
+      "name": "Diego Alejandro Milanés Carreño",
+      "type": "person",
+      "email": "dmilanes@utec.edu.pe",
+      "url": "https://cris.utec.edu.pe/es/persons/diego-alejandro-milan%C3%A9s-carre%C3%B1o",
+      "image": "https://cris.utec.edu.pe/files-asset/25685589/milanes-carrenio-diego-alejandro.jpg?w=50&f=jpg"
+    }
+  ]

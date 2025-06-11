@@ -1,0 +1,1547 @@
+[
+    {
+      "source": 0,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "relationship": "Docente Asociado"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "relationship": "Profesor Auxiliar"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 13,
+      "target": 7,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 13,
+      "target": 6,
+      "relationship": "Docente"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 17,
+      "target": 20,
+      "relationship": "CIC"
+    },
+    {
+      "source": 17,
+      "target": 21,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 22,
+      "target": 7,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 22,
+      "target": 6,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 22,
+      "target": 8,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 23,
+      "target": 25,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 23,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 27,
+      "target": 19,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 27,
+      "target": 18,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 28,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 29,
+      "target": 12,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 31,
+      "target": 12,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 31,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 31,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 32,
+      "target": 15,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 32,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 33,
+      "target": 6,
+      "relationship": "Profesor Principal"
+    },
+    {
+      "source": 33,
+      "target": 21,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 36,
+      "target": 10,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 36,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 36,
+      "target": 1,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 37,
+      "target": 4,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "relationship": "CIRSO"
+    },
+    {
+      "source": 39,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 40,
+      "target": 4,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 40,
+      "target": 21,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "relationship": "Director"
+    },
+    {
+      "source": 43,
+      "target": 25,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 43,
+      "target": 24,
+      "relationship": "Profesor Auxiliar"
+    },
+    {
+      "source": 44,
+      "target": 15,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 44,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 45,
+      "target": 24,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 45,
+      "target": 19,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 45,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 46,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 46,
+      "target": 15,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 47,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 47,
+      "target": 10,
+      "relationship": "Docente"
+    },
+    {
+      "source": 48,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 48,
+      "target": 30,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 49,
+      "target": 35,
+      "relationship": "Profesor Auxiliar"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 49,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 51,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 52,
+      "target": 25,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 54,
+      "target": 24,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 54,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "relationship": "CITA"
+    },
+    {
+      "source": 57,
+      "target": 24,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 57,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 59,
+      "target": 53,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 59,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 60,
+      "target": 2,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 61,
+      "target": 4,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 61,
+      "target": 38,
+      "relationship": "CIRSO"
+    },
+    {
+      "source": 62,
+      "target": 18,
+      "relationship": "Director, Docente"
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 62,
+      "target": 56,
+      "relationship": "CITA"
+    },
+    {
+      "source": 64,
+      "target": 35,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 65,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 65,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 65,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 67,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 67,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 67,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 68,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 68,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 69,
+      "target": 18,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 70,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 70,
+      "target": 6,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 71,
+      "target": 10,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 71,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 72,
+      "target": 24,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 72,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 72,
+      "target": 25,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 73,
+      "target": 2,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 74,
+      "target": 35,
+      "relationship": "Profesor Principal"
+    },
+    {
+      "source": 74,
+      "target": 8,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 75,
+      "target": 4,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 75,
+      "target": 38,
+      "relationship": "CIRSO"
+    },
+    {
+      "source": 76,
+      "target": 50,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 76,
+      "target": 35,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 77,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 77,
+      "target": 2,
+      "relationship": "Docente Asociado"
+    },
+    {
+      "source": 78,
+      "target": 4,
+      "relationship": "Profesor Auxiliar"
+    },
+    {
+      "source": 79,
+      "target": 6,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 79,
+      "target": 7,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 79,
+      "target": 8,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 80,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 80,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 81,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 82,
+      "target": 7,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 82,
+      "target": 6,
+      "relationship": "Docente"
+    },
+    {
+      "source": 83,
+      "target": 15,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 83,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 84,
+      "target": 18,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 84,
+      "target": 19,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 84,
+      "target": 20,
+      "relationship": "CIC"
+    },
+    {
+      "source": 84,
+      "target": 21,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 85,
+      "target": 7,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 85,
+      "target": 6,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 85,
+      "target": 8,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 86,
+      "target": 24,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 86,
+      "target": 25,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 86,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 87,
+      "target": 19,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 87,
+      "target": 18,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 88,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 89,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 89,
+      "target": 12,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 90,
+      "target": 12,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 90,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 90,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 91,
+      "target": 15,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 91,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 92,
+      "target": 6,
+      "relationship": "Profesor Principal"
+    },
+    {
+      "source": 92,
+      "target": 21,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 93,
+      "target": 35,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 94,
+      "target": 10,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 94,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 94,
+      "target": 1,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 95,
+      "target": 4,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 95,
+      "target": 38,
+      "relationship": "CIRSO"
+    },
+    {
+      "source": 96,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 97,
+      "target": 4,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 97,
+      "target": 21,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 98,
+      "target": 42,
+      "relationship": "Director"
+    },
+    {
+      "source": 99,
+      "target": 25,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 99,
+      "target": 24,
+      "relationship": "Profesor Auxiliar"
+    },
+    {
+      "source": 100,
+      "target": 15,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 100,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 101,
+      "target": 24,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 101,
+      "target": 19,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 101,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 102,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 102,
+      "target": 15,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 103,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 103,
+      "target": 10,
+      "relationship": "Docente"
+    },
+    {
+      "source": 104,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 104,
+      "target": 30,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 105,
+      "target": 35,
+      "relationship": "Profesor Auxiliar"
+    },
+    {
+      "source": 105,
+      "target": 50,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 105,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 106,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 107,
+      "target": 25,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 107,
+      "target": 53,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 108,
+      "target": 24,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 108,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 109,
+      "target": 56,
+      "relationship": "CITA"
+    },
+    {
+      "source": 110,
+      "target": 24,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 110,
+      "target": 58,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 110,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 111,
+      "target": 53,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 111,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 112,
+      "target": 2,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 113,
+      "target": 4,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 113,
+      "target": 38,
+      "relationship": "CIRSO"
+    },
+    {
+      "source": 114,
+      "target": 18,
+      "relationship": "Director, Docente"
+    },
+    {
+      "source": 114,
+      "target": 63,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 114,
+      "target": 56,
+      "relationship": "CITA"
+    },
+    {
+      "source": 115,
+      "target": 35,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 116,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 116,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 116,
+      "target": 66,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 116,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 117,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 117,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 117,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 118,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 118,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 119,
+      "target": 18,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 120,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 120,
+      "target": 6,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 121,
+      "target": 10,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 121,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 122,
+      "target": 24,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 122,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 122,
+      "target": 25,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 123,
+      "target": 2,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 124,
+      "target": 35,
+      "relationship": "Profesor Principal"
+    },
+    {
+      "source": 124,
+      "target": 8,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 125,
+      "target": 4,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 125,
+      "target": 38,
+      "relationship": "CIRSO"
+    },
+    {
+      "source": 126,
+      "target": 50,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 126,
+      "target": 35,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 127,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 127,
+      "target": 2,
+      "relationship": "Docente Asociado"
+    },
+    {
+      "source": 128,
+      "target": 4,
+      "relationship": "Profesor Auxiliar"
+    },
+    {
+      "source": 129,
+      "target": 6,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 129,
+      "target": 7,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 129,
+      "target": 8,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 130,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 130,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 131,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 132,
+      "target": 7,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 132,
+      "target": 6,
+      "relationship": "Docente"
+    },
+    {
+      "source": 133,
+      "target": 15,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 133,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 134,
+      "target": 18,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 134,
+      "target": 19,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 134,
+      "target": 20,
+      "relationship": "CIC"
+    },
+    {
+      "source": 134,
+      "target": 21,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 135,
+      "target": 7,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 135,
+      "target": 6,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 135,
+      "target": 8,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 136,
+      "target": 24,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 136,
+      "target": 25,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 136,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 137,
+      "target": 19,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 137,
+      "target": 18,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 138,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 139,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 139,
+      "target": 12,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 140,
+      "target": 12,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 140,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 140,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 141,
+      "target": 15,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 141,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 142,
+      "target": 6,
+      "relationship": "Profesor Principal"
+    },
+    {
+      "source": 142,
+      "target": 21,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 143,
+      "target": 35,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 144,
+      "target": 10,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 144,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 144,
+      "target": 1,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 145,
+      "target": 4,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 145,
+      "target": 38,
+      "relationship": "CIRSO"
+    },
+    {
+      "source": 146,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 147,
+      "target": 4,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 147,
+      "target": 21,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 148,
+      "target": 42,
+      "relationship": "Director"
+    },
+    {
+      "source": 149,
+      "target": 25,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 149,
+      "target": 24,
+      "relationship": "Profesor Auxiliar"
+    },
+    {
+      "source": 150,
+      "target": 15,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 150,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 151,
+      "target": 24,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 151,
+      "target": 19,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 151,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 152,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 152,
+      "target": 15,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 153,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 153,
+      "target": 10,
+      "relationship": "Docente"
+    },
+    {
+      "source": 154,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 154,
+      "target": 30,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 155,
+      "target": 35,
+      "relationship": "Profesor Auxiliar"
+    },
+    {
+      "source": 155,
+      "target": 50,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 155,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 156,
+      "target": 10,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 157,
+      "target": 25,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 157,
+      "target": 53,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 158,
+      "target": 24,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 158,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 159,
+      "target": 56,
+      "relationship": "CITA"
+    },
+    {
+      "source": 160,
+      "target": 24,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 160,
+      "target": 58,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 160,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 161,
+      "target": 53,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 161,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 162,
+      "target": 2,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 163,
+      "target": 4,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 163,
+      "target": 38,
+      "relationship": "CIRSO"
+    },
+    {
+      "source": 164,
+      "target": 18,
+      "relationship": "Director, Docente"
+    },
+    {
+      "source": 164,
+      "target": 63,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 164,
+      "target": 56,
+      "relationship": "CITA"
+    },
+    {
+      "source": 165,
+      "target": 35,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 166,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 166,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 166,
+      "target": 66,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 166,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 167,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 167,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 167,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 168,
+      "target": 12,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 168,
+      "target": 30,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 169,
+      "target": 18,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 170,
+      "target": 16,
+      "relationship": "BIO"
+    },
+    {
+      "source": 170,
+      "target": 6,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 171,
+      "target": 10,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 171,
+      "target": 1,
+      "relationship": "Investigador"
+    },
+    {
+      "source": 172,
+      "target": 24,
+      "relationship": "Profesor Asociado"
+    },
+    {
+      "source": 172,
+      "target": 26,
+      "relationship": "CompSust"
+    },
+    {
+      "source": 172,
+      "target": 25,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 173,
+      "target": 2,
+      "relationship": "Miembro"
+    },
+    {
+      "source": 174,
+      "target": 35,
+      "relationship": "Profesor Principal"
+    },
+    {
+      "source": 174,
+      "target": 8,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 175,
+      "target": 4,
+      "relationship": "Director Académico"
+    },
+    {
+      "source": 175,
+      "target": 38,
+      "relationship": "CIRSO"
+    },
+    {
+      "source": 176,
+      "target": 50,
+      "relationship": "Coordinador"
+    },
+    {
+      "source": 176,
+      "target": 35,
+      "relationship": "Investigador"
+    }
+  ]
